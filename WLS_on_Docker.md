@@ -17,7 +17,7 @@
 - Before pulling down the image, be sure to log into docker : 
 
   ```
-docker login
+  docker login
   ```
   
   
